@@ -4,17 +4,17 @@ A web app for searching movies by genre, viewing trailers, and information about
 ## Tech Stack
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-EC4D37?style=for-the-badge)
-![Zod](https://img.shields.io/badge/Zod-000000?style=for-the-badge&logoColor=white)
 ![React Player](https://img.shields.io/badge/React%20Player-1DB954?style=for-the-badge)
 ![React Loading Skeleton](https://img.shields.io/badge/Loading%20Skeleton-FFA500?style=for-the-badge)
 ![React Responsive](https://img.shields.io/badge/React%20Responsive-00C2FF?style=for-the-badge)
+![Zod](https://img.shields.io/badge/Zod-000000?style=for-the-badge&logoColor=white)
 
 ## Installation
 - npm install
