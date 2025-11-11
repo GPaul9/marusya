@@ -21,6 +21,7 @@ A web app for searching movies by genre, viewing trailers, and information about
 - npm run dev
 
 ## Demo
+[-Demo-](https://gpaul9.github.io/marusya/)
 
 ## Screenshots
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
