@@ -21,7 +21,7 @@ export function App() {
 
   return (
     <>
-      <BrowserRouter>
+      <BrowserRouter basename='/marusya/'>
         <Suspense fallback={<PageLoader />} >
           <Routes>
             <Route path='/' element={<MainLayout />} >
